@@ -1,10 +1,10 @@
 # COVID-19 Links
 
 ## Real-time
-- [www.worldometers.info/coronavirus](www.worldometers.info/coronavirus)
-- [ncov2019.live](ncov2019.live)
-- [www.alberta.ca/coronavirus-info-for-albertans.aspx](www.alberta.ca/coronavirus-info-for-albertans.aspx)
-- [nextstrain.org](nextstrain.org) - Real-time tracking of nCoV genomes and pathogen evolution
+- [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
+- [ncov2019.live](https://ncov2019.live)
+- [www.alberta.ca/coronavirus-info-for-albertans.aspx](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
+- [nextstrain.org](https://nextstrain.org) - Real-time tracking of nCoV genomes and pathogen evolution
   - [Neat visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov/2020-03-13)
 
 ## News
