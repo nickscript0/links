@@ -7,6 +7,7 @@
 - [nextstrain.org](https://nextstrain.org) - Real-time tracking of nCoV genomes and pathogen evolution
   - [Neat visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov/2020-03-13)
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
+- [Good single country dashboard (author looking for help to expand to other countries) co.vid19.sg](https://co.vid19.sg/)
 
 ## News
 - [\[Mar 11, 2020\] The Extraordinary Decisions Facing Italian Doctors](https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/) - "It may become necessary to establish an age limit for access to intensive care"
