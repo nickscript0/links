@@ -19,3 +19,5 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - Description of symptoms in Mid 30s woman: ["has barely been able to string a sentence together without gasping for breath"](https://twitter.com/Narrowthefield/status/1238969032528855041)
 - [Research shows that warmer weather DOES reduce the spread of COVID]( https://twitter.com/lymanstoneky/status/1239535302873460736?s=20)
 - [Naval's dashboards tweet with many great dashboards in the replies](https://twitter.com/naval/status/1238168820272869376)
+- [Elon Music links study on chloroquine (Malaria drug) as valuable treatment drug](https://twitter.com/elonmusk/status/1239650597906898947)
+  - ["There is a better in-vitro study out already, that says H-chloroquine is 5x more effective than regular chloroquine"](https://www.ncbi.nlm.nih.gov/pubmed/32150618)
