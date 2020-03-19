@@ -4,8 +4,8 @@
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - [ncov2019.live](https://ncov2019.live)
 - [www.alberta.ca/coronavirus-info-for-albertans.aspx](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
-- [nextstrain.org](https://nextstrain.org) - Real-time tracking of nCoV genomes and pathogen evolution
-  - [Neat visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov/2020-03-13)
+- [nextstrain.org](https://nextstrain.org) - Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community.
+  - [COVID-19 visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov)
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
 - [Good single country dashboard (author looking for help to expand to other countries) co.vid19.sg](https://co.vid19.sg/)
 
