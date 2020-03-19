@@ -25,4 +25,5 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
   - ["There is a better in-vitro study out already, that says H-chloroquine is 5x more effective than regular chloroquine"](https://www.ncbi.nlm.nih.gov/pubmed/32150618)
   
 ## Other
+- [Mar 19, 2020 - Superstore / PC Optimum's reassuring letter on not changing prices and remaining stocked with food](https://s1.q4cdn.com/326961052/files/doc_news/2020/03/C19-V2.pdf)
 - [ncov2019.live - Fancy looking world stats page made by US High School student](https://ncov2019.live)
