@@ -8,6 +8,7 @@
 - [nextstrain.org](https://nextstrain.org) - Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community.
   - [COVID-19 visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov)
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
+- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [Good single country dashboard (author looking for help to expand to other countries) co.vid19.sg](https://co.vid19.sg/)
 
 ## News
