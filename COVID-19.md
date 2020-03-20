@@ -4,6 +4,7 @@
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 
 - [Alberta's COVID-19 Page](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
+  - [New Alberta Data Page w/ Heat Map](https://www.alberta.ca/covid-19-alberta-data.aspx)
 - [Canada's COVID-19 Page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 - [nextstrain.org](https://nextstrain.org) - Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data. We provide a continually-updated view of publicly available data alongside powerful analytic and visualization tools for use by the community.
   - [COVID-19 visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov)
