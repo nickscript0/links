@@ -11,7 +11,10 @@
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [Good single country dashboard (author looking for help to expand to other countries) co.vid19.sg](https://co.vid19.sg/)
-- [Added Mar 21, 2020 - "Live Code" using Observable framework nice opensource notebook project](https://observablehq.com/@alaycock/covid-19-visualizations)
+- [Added Mar 21, 2020 - Observable Notebook Framework's COVID-19 Collection](https://observablehq.com/collection/@observablehq/coronavirus)
+  - [Mike Bostock's Observable Notebooks on COVID-19](https://observablehq.com/@mbostock)
+  - [Country comparison with github updated data source from Calgary thread](https://observablehq.com/@alaycock/covid-19-visualizations)
+
 
 ## News
 - [\[Mar 20, 2020\] How Alberta has managed to do more COVID-19 tests than any other province](https://www.cbc.ca/news/canada/calgary/alberta-covid-19-tests-more-than-other-provinces-1.5505622)
