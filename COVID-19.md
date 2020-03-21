@@ -24,7 +24,12 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Naval's dashboards tweet with many great dashboards in the replies](https://twitter.com/naval/status/1238168820272869376)
 - [Elon Music links study on chloroquine (Malaria drug) as valuable treatment drug](https://twitter.com/elonmusk/status/1239650597906898947)
   - ["There is a better in-vitro study out already, that says H-chloroquine is 5x more effective than regular chloroquine"](https://www.ncbi.nlm.nih.gov/pubmed/32150618)
-  
+
+## Studies
+- [\[Mar 17, 2020\] Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+- [\[Mar 8, 2020\] Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1)
+- [\[Feb 7, 2020\] Epidemiological Characteristics of 2143 Pediatric Patients
+With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
 ## Other
 - [Mar 19, 2020 - Superstore / PC Optimum's reassuring letter on not changing prices and remaining stocked with food](https://s1.q4cdn.com/326961052/files/doc_news/2020/03/C19-V2.pdf)
 - [ncov2019.live - Fancy looking world stats page made by US High School student](https://ncov2019.live)
