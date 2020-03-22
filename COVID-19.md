@@ -18,6 +18,7 @@
 
 
 ## News
+- [\[Mar 21, 2020\] Reddit thread on Calgary Distilleries making hand sanitizer](https://www.reddit.com/r/Calgary/comments/fmj6dx/shout_out_to_burrwood_annex_raft_city_and_all_the/)
 - [\[Mar 20, 2020\] How Alberta has managed to do more COVID-19 tests than any other province](https://www.cbc.ca/news/canada/calgary/alberta-covid-19-tests-more-than-other-provinces-1.5505622)
 - [\[Mar 11, 2020\] The Extraordinary Decisions Facing Italian Doctors](https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/) - "It may become necessary to establish an age limit for access to intensive care"
 - [\[Feb 28, 2020\] How Bad Will the
