@@ -1,4 +1,4 @@
-Country Trimmed,Total Population
+country,population
 China,1401884960
 India,1360134418
 United States,329499412
@@ -230,13 +230,14 @@ Nauru,11000
 Tuvalu,10200
 Saint Barthélemy ,9793
 Saint Pierre and Miquelon ,6008
-"Saint Helena, Ascension",
-Montserrat ,
-Falkland Islands ,
-Christmas Island ,
-Norfolk Island ,
-Niue ,
-Tokelau ,
-Vatican City,
-Cocos (Keeling) Islands ,
-Pitcairn Islands ,
+"Saint Helena, Ascension",5633
+Montserrat ,4989
+Falkland Islands ,3198
+Christmas Island ,1928
+Norfolk Island ,1756
+Niue ,1520
+Tokelau ,1400
+Vatican City,799
+Cocos (Keeling) Islands ,538
+Pitcairn Islands ,50
+World,7773875000
