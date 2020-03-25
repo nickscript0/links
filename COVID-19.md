@@ -12,7 +12,7 @@
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [Good single country dashboard (author looking for help to expand to other countries) co.vid19.sg](https://co.vid19.sg/)
 - [Added Mar 21, 2020 - Observable Notebook Framework's COVID-19 Collection](https://observablehq.com/collection/@observablehq/coronavirus)
-  - :star:[Comparing COVID-19 Growth (TODO: fork this and divide by population, to make per capita)](https://observablehq.com/@abenrob/comparing-covid-19-growth?collection=@observablehq/coronavirus)
+  - :star:[COVID-19 Growth by Country (my fork with per capita data and more)](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
   - [Mike Bostock's Observable Notebooks on COVID-19](https://observablehq.com/@mbostock)
   - [Country comparison with github updated data source from Calgary thread](https://observablehq.com/@alaycock/covid-19-visualizations)
 
