@@ -15,7 +15,9 @@
   - :star:[COVID-19 Growth by Country (my fork with per capita data and more)](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
   - [Mike Bostock's Observable Notebooks on COVID-19](https://observablehq.com/@mbostock)
   - [Country comparison with github updated data source from Calgary thread](https://observablehq.com/@alaycock/covid-19-visualizations)
+- **Added Mar 30, 2020**
  - [Canada and Provincial specific charts chi-csm.ca](https://www.chi-csm.ca/)
+ - [Unique interactive chart of NEW cases per country over time](https://aatishb.com/covidtrends/)
 
 
 ## News
