@@ -19,6 +19,7 @@
   - [Canada and Provincial specific charts chi-csm.ca](https://www.chi-csm.ca/)
   - [Unique interactive chart of NEW cases per country over time](https://aatishb.com/covidtrends/)
   - [Johns Hopkins COVID19 Data github repo that powers their pages](https://github.com/CSSEGISandData/COVID-19)
+  - [Johns Hopkins World / Country Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html)
 
 ## News
 - [\[Mar 21, 2020\] Reddit thread on Calgary Distilleries making hand sanitizer](https://www.reddit.com/r/Calgary/comments/fmj6dx/shout_out_to_burrwood_annex_raft_city_and_all_the/)
