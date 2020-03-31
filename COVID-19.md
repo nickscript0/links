@@ -44,6 +44,7 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Anecdote of disease from 35yo: "I was diagnosed with COVID-19 last night. I want to share my experience in case it is helpful to others. I am 35yo male with no preexisting conditions who is married with two children. I don't smoke, rarely drink and workout 4x/week during normal times."](https://twitter.com/Doc_Sands/status/1241825223130746880)
 - [PHD on bad advice for grocery shopping: "Unless you are living under a rock or have already perished from COVID-19, you've likely seen a YouTube video making the rounds where a medical doctor (wearing scrubs!) purports to give COVID-19 advice."](https://twitter.com/bugcounter/status/1243319180851580929)
 - [Peter Kolchinksy Virologist on "To those who think they’re invincible or covid is overblown (it’s not; I’m a virologist), here’s a sobering reminder from my colleague and ER doc"](https://twitter.com/PeterKolchinsky/status/1243716410842456065)
+- [:star:Peter Kolchinsky Virologist on why Coronavirus can have a longstanding vaccine unlike Influenza which needs a new one every year](https://threadreaderapp.com/thread/1240498037958545410.html)
 
 ## TODO
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
