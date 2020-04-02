@@ -12,7 +12,7 @@
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - :star:[COVID-19 Growth by Country (my fork with per capita data and more)](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
 - [\[Added Mar 30, 2020\] Unique interactive chart of NEW cases per country over time](https://aatishb.com/covidtrends/)
-- [Unique COVID-19 Projections site: beds, ventilators, and predicted peaks for the US and its states](covid19.healthdata.org)
+- [Unique COVID-19 Projections site: beds, ventilators, and predicted peaks for the US and its states](https://covid19.healthdata.org)
 
 ## Charts to evaluate
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
