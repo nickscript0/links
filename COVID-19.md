@@ -28,6 +28,7 @@
 - [An interactive visualization of the exponential spread of COIVD-19](https://91-divoc.com)
 
 ## News
+- [Apr 11, 2020 - NYTimes article where journalist went inside a hospital and reported the situation](https://www.nytimes.com/2020/04/11/opinion/sunday/coronavirus-hospitals-bronx.html)
 - [\[Apr 9, 2020\] nytimes telling chart of deaths compared to past years](https://www.nytimes.com/interactive/2020/04/10/upshot/coronavirus-deaths-new-york-city.html)
 - [\[Mar 21, 2020\] Reddit thread on Calgary Distilleries making hand sanitizer](https://www.reddit.com/r/Calgary/comments/fmj6dx/shout_out_to_burrwood_annex_raft_city_and_all_the/)
 - [\[Mar 20, 2020\] How Alberta has managed to do more COVID-19 tests than any other province](https://www.cbc.ca/news/canada/calgary/alberta-covid-19-tests-more-than-other-provinces-1.5505622)
