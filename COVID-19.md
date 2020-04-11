@@ -28,6 +28,7 @@
 - [An interactive visualization of the exponential spread of COIVD-19](https://91-divoc.com)
 
 ## News
+- [\[Apr 9, 2020\] nytimes telling chart of deaths compared to past years](https://www.nytimes.com/interactive/2020/04/10/upshot/coronavirus-deaths-new-york-city.html)
 - [\[Mar 21, 2020\] Reddit thread on Calgary Distilleries making hand sanitizer](https://www.reddit.com/r/Calgary/comments/fmj6dx/shout_out_to_burrwood_annex_raft_city_and_all_the/)
 - [\[Mar 20, 2020\] How Alberta has managed to do more COVID-19 tests than any other province](https://www.cbc.ca/news/canada/calgary/alberta-covid-19-tests-more-than-other-provinces-1.5505622)
 - [\[Mar 11, 2020\] The Extraordinary Decisions Facing Italian Doctors](https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/) - "It may become necessary to establish an age limit for access to intensive care"
@@ -47,6 +48,9 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Peter Kolchinksy Virologist on "To those who think they’re invincible or covid is overblown (it’s not; I’m a virologist), here’s a sobering reminder from my colleague and ER doc"](https://twitter.com/PeterKolchinsky/status/1243716410842456065)
 - [:star:Peter Kolchinsky Virologist on why Coronavirus can have a longstanding vaccine unlike Influenza which needs a new one every year](https://threadreaderapp.com/thread/1240498037958545410.html)
 - [Peter Kolchinsky Virologist on "A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS"](https://twitter.com/PeterKolchinsky/status/1246975275021348865?s=20)
+- [Great posts by Craig Spencer - NYC ER Doctor, Ebola survivor](https://threader.app/@Craig_A_Spencer)
+  - [Apr 3 - There's no way to describe what we're seeing... there are tents outside our hospitals...](https://threader.app/thread/1245911306487713792)
+  - [Apr 11 - So what's really going on here in NYC?](https://threader.app/thread/1248837610979692544)
 
 ## TODO
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
