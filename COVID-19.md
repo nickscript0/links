@@ -48,10 +48,11 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Peter Kolchinksy Virologist on "To those who think they’re invincible or covid is overblown (it’s not; I’m a virologist), here’s a sobering reminder from my colleague and ER doc"](https://twitter.com/PeterKolchinsky/status/1243716410842456065)
 - [:star:Peter Kolchinsky Virologist on why Coronavirus can have a longstanding vaccine unlike Influenza which needs a new one every year](https://threadreaderapp.com/thread/1240498037958545410.html)
 - [Peter Kolchinsky Virologist on "A recent Nature paper reveal a remarkable trick SARS-Cov-2 learned that makes it nastier than the first SARS"](https://twitter.com/PeterKolchinsky/status/1246975275021348865?s=20)
+- [J. D. Vance - Reasonable right wing guy analyzing the right wing opinions in an objective way](https://twitter.com/JDVance1/status/1247727105867210756)
 - [Great posts by Craig Spencer - NYC ER Doctor, Ebola survivor](https://threader.app/@Craig_A_Spencer)
   - [Apr 3 - There's no way to describe what we're seeing... there are tents outside our hospitals...](https://threader.app/thread/1245911306487713792)
   - [Apr 11 - So what's really going on here in NYC?](https://threader.app/thread/1248837610979692544)
-
+  - [Apr 6 - NYC’s healthcare system is being pushed to the limit...](https://threader.app/thread/1247155043171741696)
 ## TODO
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
 
