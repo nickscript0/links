@@ -14,6 +14,7 @@
 - :star: [Charting COVID-19 stats for the US from covidtracking.com/api](https://observablehq.com/@nickscript0/charting-covid-19-stats-per-us-state-from-covidtracking-com)
 - [\[Added Mar 30, 2020\] Unique interactive chart of NEW cases per country over time](https://aatishb.com/covidtrends/)
 - [Unique COVID-19 Projections site: beds, ventilators, and predicted peaks for the US and its states](https://covid19.healthdata.org)
+- [Google Map of stores with incidents in Canada](https://www.google.com/maps/d/viewer?mid=1cWm99ZSIeceKzu97rk50ik32cSvvX4pa)
 
 ## Charts to evaluate
 - [avatorl.org/covid-19 - Incredible set of 24+ dashboards](https://avatorl.org/covid-19/)
