@@ -29,6 +29,8 @@
 - [An interactive visualization of the exponential spread of COIVD-19](https://91-divoc.com)
 
 ## News
+- [Apr 22, 2020 - NYTimes Article - 28,000 Missing Deaths:
+Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html?action=click&module=Top%20Stories&pgtype=Homepage)
 - [Apr 11, 2020 - NYTimes article where journalist went inside a hospital and reported the situation](https://www.nytimes.com/2020/04/11/opinion/sunday/coronavirus-hospitals-bronx.html)
 - [\[Apr 9, 2020\] nytimes telling chart of deaths compared to past years](https://www.nytimes.com/interactive/2020/04/10/upshot/coronavirus-deaths-new-york-city.html)
 - [\[Mar 21, 2020\] Reddit thread on Calgary Distilleries making hand sanitizer](https://www.reddit.com/r/Calgary/comments/fmj6dx/shout_out_to_burrwood_annex_raft_city_and_all_the/)
@@ -55,10 +57,16 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
   - [Apr 3 - There's no way to describe what we're seeing... there are tents outside our hospitals...](https://threader.app/thread/1245911306487713792)
   - [Apr 11 - So what's really going on here in NYC?](https://threader.app/thread/1248837610979692544)
   - [Apr 6 - NYC’s healthcare system is being pushed to the limit...](https://threader.app/thread/1247155043171741696)
+- [Apr 20 - Peter Kolchinsky Virologist on status of vaccine and adjuvant info](https://twitter.com/PeterKolchinsky/status/1252283886417174528)
+- [Apr 20 - On how bad getting Coronavirus can, be explaining ventilator experience in detail](https://twitter.com/sannewman/status/1251646491283935232?s=21)
+- [All Peter Kolchinsky's virologist explainers in one place](https://twitter.com/peterkolchinsky/status/1251850557385572353?s=21)
+- [Doctor on prone position and how best to treat airway problems with COVID-19](https://twitter.com/airwaycam/status/1248972799164796928?s=21)
 ## TODO
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
 
 ## Studies
+- [Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China](https://project-evidence.github.io/)
+- [Apr 20 - Study on real analysis of restaurant transmission](https://twitter.com/zeynep/status/1251556084424347649?s=21) https://t.co/j8VXjnWtlN?amp=1
 - [\[Mar 17, 2020\] Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
 - [\[Mar 8, 2020\] Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1)
 - [\[Feb 7, 2020\] Epidemiological Characteristics of 2143 Pediatric Patients
