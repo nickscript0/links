@@ -77,6 +77,8 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Apr 20 - On how bad getting Coronavirus can, be explaining ventilator experience in detail](https://twitter.com/sannewman/status/1251646491283935232?s=21)
 - [All Peter Kolchinsky's virologist explainers in one place](https://twitter.com/peterkolchinsky/status/1251850557385572353?s=21)
 - [Doctor on prone position and how best to treat airway problems with COVID-19](https://twitter.com/airwaycam/status/1248972799164796928?s=21)
+- [Denise Minger "discussion of the antibody tests being used for the “COVID cases are 80x higher than we thought!” studies"](https://twitter.com/deniseminger/status/1254455321453453312?s=20)
+
 ## TODO
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
 
