@@ -1,5 +1,23 @@
 # COVID-19 Links
 
+## Top
+### Sites
+- [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
+- :star:[COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
+- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
+
+### Surfaces
+
+| Surface | Duration |
+| --- | --- |
+| Glass | 5 days |
+| Wood | 4 days |
+| Plastic & stainless-steel | 3 days |
+| Cardboard | 24 hours |
+| Copper surfaces | 4 hours |
+
+[Cleveland Clinic - Surfaces survival](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)
+
 ## Real-time
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
@@ -10,8 +28,9 @@
   - [COVID-19 visualization of virus spread over time overlayed on world map](https://nextstrain.org/ncov)
 
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
-- :star:[COVID-19 Growth by Country (my fork with per capita data and more)](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
-- :star: [Charting COVID-19 stats for the US from covidtracking.com/api](https://observablehq.com/@nickscript0/charting-covid-19-stats-per-us-state-from-covidtracking-com)
+- :star:[observablehq - COVID-19 Growth by Country (my fork with per capita data and more)](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
+- :star: [observablehq - Charting COVID-19 stats for the US from covidtracking.com/api](https://observablehq.com/@nickscript0/charting-covid-19-stats-per-us-state-from-covidtracking-com)
+- :star: [observablehq - Total Deaths comparison by country](https://observablehq.com/@nickscript0/covid-19-current-deaths-per-capita)
 - [\[Added Mar 30, 2020\] Unique interactive chart of NEW cases per country over time](https://aatishb.com/covidtrends/)
 - [Unique COVID-19 Projections site: beds, ventilators, and predicted peaks for the US and its states](https://covid19.healthdata.org)
 - [Google Map of stores with incidents in Canada](https://www.google.com/maps/d/viewer?mid=1cWm99ZSIeceKzu97rk50ik32cSvvX4pa)
