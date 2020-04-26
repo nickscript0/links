@@ -89,6 +89,7 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [\[Mar 8, 2020\] Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1)
 - [\[Feb 7, 2020\] Epidemiological Characteristics of 2143 Pediatric Patients
 With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
+[covidtestingproject.org - multidisciplinary team of researchers and physicians compare accuracy of existing COVID-19 test kits](https://covidtestingproject.org/)
 
 ## Other
 - [Mar 19, 2020 - Superstore / PC Optimum's reassuring letter on not changing prices and remaining stocked with food](https://s1.q4cdn.com/326961052/files/doc_news/2020/03/C19-V2.pdf)
