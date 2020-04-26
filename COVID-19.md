@@ -16,7 +16,7 @@
 | Cardboard | 24 hours |
 | Copper surfaces | 4 hours |
 
-[Cleveland Clinic - Surfaces survival](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)
+[From Cleveland Clinic - Surfaces survival](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)
 
 ## Real-time
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
