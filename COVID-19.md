@@ -98,6 +98,7 @@ With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/c
 - [time.com - Why Wearing a Face Mask Is Encouraged in Asia, but Shunned in the U.S.](https://time.com/5799964/coronavirus-face-mask-asia-us/)
 - [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic?partner=applenews&ad-keywords=APPLEMOBILE&region=written_through&asset_id=100000007035453&uri=nyt://article/d17df55b-0d8f-5c7c-8d09-77700657c5d5)
 - [nature.com - Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2?fbclid=IwAR21U_pos1en6tP6amMW-t9dDi9hGqzbs0Wxq9KYLuBpIOSYIFHytilnbzw)
+- [Professor Kim Woo-joo from Korea University Guro Hospital on masks and more](https://www.youtube.com/watch?time_continue=958&v=gAk7aX5hksU&feature=emb_title)
 
 ### Where to buy
 - https://www.canadamedsupply.ca/
