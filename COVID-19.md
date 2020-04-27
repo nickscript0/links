@@ -99,6 +99,11 @@ With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/c
 - [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic?partner=applenews&ad-keywords=APPLEMOBILE&region=written_through&asset_id=100000007035453&uri=nyt://article/d17df55b-0d8f-5c7c-8d09-77700657c5d5)
 - [nature.com - Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2?fbclid=IwAR21U_pos1en6tP6amMW-t9dDi9hGqzbs0Wxq9KYLuBpIOSYIFHytilnbzw)
 
+### Where to buy
+- https://www.canadamedsupply.ca/
+- https://www.zukit.com/product/erya_dse170_disposable_surgical_mask_42531087
+- https://albertaapparel.com/pages/alberta-apparel-mask-production
+
 ## Other
 - [Mar 19, 2020 - Superstore / PC Optimum's reassuring letter on not changing prices and remaining stocked with food](https://s1.q4cdn.com/326961052/files/doc_news/2020/03/C19-V2.pdf)
 - [ncov2019.live - Fancy looking world stats page made by US High School student](https://ncov2019.live)
