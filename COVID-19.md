@@ -45,6 +45,7 @@
 - [An interactive visualization of the exponential spread of COIVD-19](https://91-divoc.com)
 
 ## News
+- [Apr 27, 2020 - Three journalists from The New York Times reviewed more than 260,000 words spoken by President Trump during the pandemic. Here’s what we learned.](https://www.nytimes.com/interactive/2020/04/26/us/politics/trump-coronavirus-briefings-analyzed.html?action=click&module=Top%20Stories&pgtype=Homepage)
 - [Apr 24, 2020 - Global coronavirus death toll could be 60% higher than reported (charts on comparison to historical yearly death reates)](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c)
 - [Apr 22, 2020 - NYTimes Article - 28,000 Missing Deaths:
 Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html?action=click&module=Top%20Stories&pgtype=Homepage)
