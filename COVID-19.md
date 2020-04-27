@@ -92,6 +92,10 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
 [covidtestingproject.org - multidisciplinary team of researchers and physicians compare accuracy of existing COVID-19 test kits](https://covidtestingproject.org/)
 
+## On Wearing Masks
+- [time.com - Why Wearing a Face Mask Is Encouraged in Asia, but Shunned in the U.S.](https://time.com/5799964/coronavirus-face-mask-asia-us/)
+- [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://www.researchgate.net/publication/258525804_Testing_the_Efficacy_of_Homemade_Masks_Would_They_Protect_in_an_Influenza_Pandemic?partner=applenews&ad-keywords=APPLEMOBILE&region=written_through&asset_id=100000007035453&uri=nyt://article/d17df55b-0d8f-5c7c-8d09-77700657c5d5)
+
 ## Other
 - [Mar 19, 2020 - Superstore / PC Optimum's reassuring letter on not changing prices and remaining stocked with food](https://s1.q4cdn.com/326961052/files/doc_news/2020/03/C19-V2.pdf)
 - [ncov2019.live - Fancy looking world stats page made by US High School student](https://ncov2019.live)
