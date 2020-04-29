@@ -17,7 +17,9 @@
 
 ## Real-time
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
-- [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+- NY Times
+  - :star: [Five Ways to Follow the Coronavirus Outbreak for Any Metro Area in the U.S.](https://www.nytimes.com/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
+  - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Alberta's COVID-19 Page](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
   - [New Alberta Data Page w/ Heat Map](https://covid19stats.alberta.ca/)
 - [Canada's COVID-19 Page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
