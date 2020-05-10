@@ -3,6 +3,7 @@
 ## Top
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
+- [Most accurate COVID-19 model (ML prediction model) - Youyang Gu covid19_projections "Our COVID-19 prediction model adds the power of artificial intelligence on top of a classic infectious disease model"](https://covid19-projections.com/)
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 
 | Surface | Duration |
