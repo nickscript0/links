@@ -84,6 +84,7 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [All Peter Kolchinsky's virologist explainers in one place](https://twitter.com/peterkolchinsky/status/1251850557385572353?s=21)
 - [Doctor on prone position and how best to treat airway problems with COVID-19](https://twitter.com/airwaycam/status/1248972799164796928?s=21)
 - [Denise Minger "discussion of the antibody tests being used for the “COVID cases are 80x higher than we thought!” studies"](https://twitter.com/deniseminger/status/1254455321453453312?s=20)
+- [Funny reaction video of Trump's female Dr to his statements on ingesting bleach etc..](https://twitter.com/LaurenWern/status/1253499872134782979?s=20)
 - [:star: Balaji S. Srinivasan @balajis - Biologist PHD entrepreneur on "What are a country's options for proceeding" considering enconomy and more](https://twitter.com/balajis/status/1259178497320185856)
 
 ## TODO
