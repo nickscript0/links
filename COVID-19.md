@@ -16,6 +16,9 @@
 
 [From Cleveland Clinic - Surfaces survival](https://health.clevelandclinic.org/how-long-will-coronavirus-survive-on-surfaces/)
 
+- [Talking Can Generate Coronavirus Droplets That Linger Up to 14 Minutes
+A new study shows how respiratory droplets produced during normal conversation may be just as important in transmitting disease, especially indoors.](https://www.nytimes.com/2020/05/14/health/coronavirus-infections.html)
+
 ## Real-time
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - NY Times
@@ -97,7 +100,8 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [\[Mar 8, 2020\] Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak](https://www.biorxiv.org/content/10.1101/2020.03.08.982637v1)
 - [\[Feb 7, 2020\] Epidemiological Characteristics of 2143 Pediatric Patients
 With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
-[covidtestingproject.org - multidisciplinary team of researchers and physicians compare accuracy of existing COVID-19 test kits](https://covidtestingproject.org/)
+- [covidtestingproject.org - multidisciplinary team of researchers and physicians compare accuracy of existing COVID-19 test kits](https://covidtestingproject.org/)
+- [The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission](https://www.pnas.org/content/early/2020/05/12/2006874117)
 
 ## On Wearing Masks
 - [time.com - Why Wearing a Face Mask Is Encouraged in Asia, but Shunned in the U.S.](https://time.com/5799964/coronavirus-face-mask-asia-us/)
