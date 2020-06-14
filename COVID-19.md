@@ -5,6 +5,7 @@
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
+- [Canada Provincial Charts](https://www.covid-19canada.com/graphs)
 - [Axios - Coronavirus dashboard](https://www.axios.com/coronavirus-latest-news-quick-highlights-57a186a3-7547-45bf-852a-83019849d8d5.html)
 - [Most accurate COVID-19 model (ML prediction model) - Youyang Gu covid19_projections "Our COVID-19 prediction model adds the power of artificial intelligence on top of a classic infectious disease model"](https://covid19-projections.com/)
 
