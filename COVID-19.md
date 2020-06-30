@@ -1,6 +1,7 @@
 # COVID-19 Links
 
 ## Top
+- [Canada Per province charts CBC](https://newsinteractives.cbc.ca/coronavirustracker/)
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
