@@ -2,11 +2,13 @@
 
 ## Top
 - [Canada Per province charts CBC](https://newsinteractives.cbc.ca/coronavirustracker/)
-- [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
-- :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
-- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
+---
+- [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
+- [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
+- :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
 - [Axios - Coronavirus dashboard](https://www.axios.com/coronavirus-latest-news-quick-highlights-57a186a3-7547-45bf-852a-83019849d8d5.html)
 - [Most accurate COVID-19 model (ML prediction model) - Youyang Gu covid19_projections "Our COVID-19 prediction model adds the power of artificial intelligence on top of a classic infectious disease model"](https://covid19-projections.com/)
 
