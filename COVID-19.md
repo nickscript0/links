@@ -108,6 +108,9 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf)
 - [covidtestingproject.org - multidisciplinary team of researchers and physicians compare accuracy of existing COVID-19 test kits](https://covidtestingproject.org/)
 - [The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission](https://www.pnas.org/content/early/2020/05/12/2006874117)
+- [A new study has just been published in 
+ThoraxBMJ
+ showing how masks reduce droplet spread from speech, coughs, and sneezes. a surgical mask works better than a 2-layer cotton mask, which works better than a 1-layer cotton mask](https://thorax.bmj.com/content/early/2020/07/24/thoraxjnl-2020-215748.full)
 
 ## On Wearing Masks
 - [time.com - Why Wearing a Face Mask Is Encouraged in Asia, but Shunned in the U.S.](https://time.com/5799964/coronavirus-face-mask-asia-us/)
