@@ -5,6 +5,7 @@
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
 ---
+- [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 - [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
