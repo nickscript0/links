@@ -112,6 +112,7 @@ With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/c
 - [A new study has just been published in 
 ThoraxBMJ
  showing how masks reduce droplet spread from speech, coughs, and sneezes. a surgical mask works better than a 2-layer cotton mask, which works better than a 1-layer cotton mask](https://thorax.bmj.com/content/early/2020/07/24/thoraxjnl-2020-215748.full)
+- [Respiratory virus shedding in exhaled breath and efficacy of face masks - Apr 3, 2020](https://www.nature.com/articles/s41591-020-0843-2#Tab1) - Comparing Cornavirus, Flu, Rhinovirus transmission with and without surgical masks
 
 ## On Wearing Masks
 - [time.com - Why Wearing a Face Mask Is Encouraged in Asia, but Shunned in the U.S.](https://time.com/5799964/coronavirus-face-mask-asia-us/)
