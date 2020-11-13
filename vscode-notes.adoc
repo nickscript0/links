@@ -2,11 +2,11 @@
 
 ## Multiple Cursors Shortcuts
 
-### Linux
-* Select additional cursors up or down: `Alt+Shift+Down`
-* Select all of current highlighted text: `Ctrl+Shift+L`
-* Select additional with mouse: `Alt+Click`
-* Put cursors on all selected all lines: `Shift+Alt+I`
+* Select additional cursors up or down: Mac `⌥⌘↓`, Linux `Alt+Shift+Down`
+* Select all of current highlighted text: Mac `⇧⌘L`, Linux `Ctrl+Shift+L`
+* Select additional with mouse: Linux `Alt+Click`
+* Put cursors on all selected all lines: Linux `Shift+Alt+I`
+* Undo last cursor operation: Mac `⌘U`
 
 ## Folding Sections
 * Fold region
