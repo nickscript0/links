@@ -33,3 +33,33 @@ return arr?.[0];
 // Function
 log?.(`Request started at ${new Date().toISOString()}`);
 ```
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html#variadic-tuple-types[Variadic Tuple Types (4.0)]
+
+```typescript
+type Arr = readonly any[];
+
+function concat<T extends Arr, U extends Arr>(arr1: T, arr2: U): [...T, ...U] {
+  return [...arr1, ...arr2];
+}
+```
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html#template-literal-types[Template Literal Types (4.1)]
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html#key-remapping-in-mapped-types[Key Remapping in Mapped Types (4.1)]
+
+```typescript
+type Getters<T> = {
+    [K in keyof T as `get${Capitalize<string & K>}`]: () => T[K]
+};
+```
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-1.html#recursive-conditional-types[Recursive Conditional Types (4.1)]
+
+```typescript
+type ElementType<T> = T extends ReadonlyArray<infer U> ? ElementType<U> : T;
+
+function deepFlatten<T extends readonly unknown[]>(x: T): ElementType<T>[] {
+  throw "not implemented";
+}
+```
