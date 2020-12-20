@@ -1,7 +1,7 @@
 = Typescript Notes
 
 == Important
-=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions[Const Assertions]
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions[Const Assertions (3.4)]
 ____
 When we construct new literal expressions with const assertions, we can signal to the language that
 
@@ -20,3 +20,16 @@ let y = [10, 20] as const;
 let z = { text: "hello" } as const;
 ```
 ____
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html#optional-chaining[Optional Chaining and Nullish Coalescing (3.7)]
+
+```typescript
+// Property
+const a = foo?.bar?.baz;
+
+// Array
+return arr?.[0];
+
+// Function
+log?.(`Request started at ${new Date().toISOString()}`);
+```
