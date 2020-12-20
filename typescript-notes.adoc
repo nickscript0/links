@@ -63,3 +63,5 @@ function deepFlatten<T extends readonly unknown[]>(x: T): ElementType<T>[] {
   throw "not implemented";
 }
 ```
+
+=== https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#discriminating-unions[Discriminated Unions]
