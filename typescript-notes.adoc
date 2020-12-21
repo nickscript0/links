@@ -2,6 +2,21 @@
 :toc:
 
 == Important
+
+=== https://www.typescriptlang.org/docs/handbook/advanced-types.html#index-types[Index Types] and https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types[Mapped Types]
+
+* index type query operator `keyof T`
+* index access operator `T[K]`
+* Mapped Type
++
+```typescript
+type Readonly<T> = {
+  readonly [P in keyof T]: T[P];
+};
+```
+
+=== https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html#conditional-types[Conditional Types (2.8)]
+
 === https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions[Const Assertions (3.4)]
 ____
 When we construct new literal expressions with const assertions, we can signal to the language that
