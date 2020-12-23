@@ -15,13 +15,26 @@ type Readonly<T> = {
 };
 ```
 
-* Mapped Type for Enum keys
+==== Mapped Type for Enum keys
+
 ```typescript
 /**
  * Generate a String Literal Type that represents all Enum keys as strings
  * https://www.typescriptlang.org/docs/handbook/enums.html#enums-at-compile-time
  */
 type SomeEnumKeys = keyof typeof SomeEnum;
+```
+
+==== Mapped Type Pattern to generate a type from an existing object's keys while ensuring the values are typed
+This is useful when you want a `Record<A, B>` type, but A is the mapped type inferred from the defined object's keys.
+
+```typescript
+const ObjTemplate = {
+  key1: value1,
+  key2: value2
+} as const;
+
+const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
 ```
 
 === https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html#conditional-types[Conditional Types (2.8)]
