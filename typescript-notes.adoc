@@ -15,6 +15,15 @@ type Readonly<T> = {
 };
 ```
 
+* Mapped Type for Enum keys
+```typescript
+/**
+ * Generate a String Literal Type that represents all Enum keys as strings
+ * https://www.typescriptlang.org/docs/handbook/enums.html#enums-at-compile-time
+ */
+type SomeEnumKeys = keyof typeof SomeEnum;
+```
+
 === https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html#conditional-types[Conditional Types (2.8)]
 
 === https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html#const-assertions[Const Assertions (3.4)]
