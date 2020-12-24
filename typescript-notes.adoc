@@ -1,7 +1,7 @@
 = Typescript Notes
 :toc:
 
-== Important
+== Concepts
 
 === https://www.typescriptlang.org/docs/handbook/advanced-types.html#index-types[Index Types] and https://www.typescriptlang.org/docs/handbook/advanced-types.html#mapped-types[Mapped Types]
 
@@ -23,18 +23,6 @@ type Readonly<T> = {
  * https://www.typescriptlang.org/docs/handbook/enums.html#enums-at-compile-time
  */
 type SomeEnumKeys = keyof typeof SomeEnum;
-```
-
-==== Mapped Type Pattern to generate a type from an existing object's keys while ensuring the values are typed
-This is useful when you want a `Record<A, B>` type, but A is the mapped type inferred from the defined object's keys.
-
-```typescript
-const ObjTemplate = {
-  key1: value1,
-  key2: value2
-} as const;
-
-const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
 ```
 
 === https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-8.html#conditional-types[Conditional Types (2.8)]
@@ -129,3 +117,17 @@ function deepFlatten<T extends readonly unknown[]>(x: T): ElementType<T>[] {
 ```
 
 === https://www.typescriptlang.org/docs/handbook/unions-and-intersections.html#discriminating-unions[Discriminated Unions]
+
+== Common Patterns
+
+=== I want a `Record<A, B>` type, but where A is a mapped type from an existing object's keys
+This is useful when you want a Record with a consistent value type, but where the keys are a generated string literal (instead of just `Record<string, B>`).
+
+```typescript
+const ObjTemplate = {
+  key1: value1,
+  key2: value2
+} as const;
+
+const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
+```
