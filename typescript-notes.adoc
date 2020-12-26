@@ -131,3 +131,30 @@ const ObjTemplate = {
 
 const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
 ```
+
+=== Typed nested property path strings like `lodash.get`
+
+From https://stackoverflow.com/a/65140399[here]
+
+```typescript
+type Path<T> = T extends Array<any>
+  ? `${number}` | `${number}.${Path<T[number]>}`
+  : T extends object
+  ? {
+      [P in keyof T]: (P & string) | `${P & string}.${Path<T[P]>}`
+    }[keyof T]
+  : never
+```
+
+See "Expressjs Routes with typed parameters" for another possible solution to this.
+
+=== Expressjs Routes with typed parameters (Template Literal Types)
+This is another posAnother possible solution is using the pattern https://davidtimms.github.io/programming-languages/typescript/2020/11/20/exploring-template-literal-types-in-typescript-4.1.html[David Timms uses here in his expressjs routes example]
+
+```typescript
+type PathParams<Path extends string> =
+    Path extends `:${infer Param}/${infer Rest}` ? Param | PathParams<Rest> :
+    Path extends `:${infer Param}` ? Param :
+    Path extends `${infer _Prefix}:${infer Rest}` ? PathParams<`:${Rest}`> :
+    never;
+```
