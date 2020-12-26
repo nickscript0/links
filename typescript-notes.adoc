@@ -132,7 +132,7 @@ const ObjTemplate = {
 const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
 ```
 
-=== Typed nested property path strings like `lodash.get`
+=== Typed nested property path strings like `lodash.get` (Template Literal Types and Recursive Conditional Types)
 
 From https://stackoverflow.com/a/65140399[here]
 
@@ -148,7 +148,7 @@ type Path<T> = T extends Array<any>
 
 See "Expressjs Routes with typed parameters" for another possible solution to this.
 
-=== Expressjs Routes with typed parameters (Template Literal Types)
+=== Expressjs Routes with typed parameters (Template Literal Types and Recursive Conditional Types)
 From https://davidtimms.github.io/programming-languages/typescript/2020/11/20/exploring-template-literal-types-in-typescript-4.1.html[Exploring Template Literal Types in TypeScript 4.1]
 
 ```typescript
