@@ -149,7 +149,7 @@ type Path<T> = T extends Array<any>
 See "Expressjs Routes with typed parameters" for another possible solution to this.
 
 === Expressjs Routes with typed parameters (Template Literal Types)
-This is another posAnother possible solution is using the pattern https://davidtimms.github.io/programming-languages/typescript/2020/11/20/exploring-template-literal-types-in-typescript-4.1.html[David Timms uses here in his expressjs routes example]
+From https://davidtimms.github.io/programming-languages/typescript/2020/11/20/exploring-template-literal-types-in-typescript-4.1.html[Exploring Template Literal Types in TypeScript 4.1]
 
 ```typescript
 type PathParams<Path extends string> =
