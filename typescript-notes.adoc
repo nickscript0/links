@@ -132,6 +132,15 @@ const ObjTemplate = {
 const Obj: { [key in keyof typeof ObjTemplate]: ValueType } = ObjTemplate;
 ```
 
+=== I want a `Record` type, where the keys are restricted to the strings in an array
+From https://stackoverflow.com/q/56967820[here] and https://stackoverflow.com/a/52174119[explanation here "The standard trick supported by the compiler to do this is to run the array through an identity function that infers an element type constrained by string"]
+
+```typescript
+const ids = ['hello', 'world'] as const;
+
+type RecordWithArrayKeys = Record<typeof ids[number], string>;
+```
+
 === Typed nested property path strings like `lodash.get` (Template Literal Types and Recursive Conditional Types)
 
 From https://stackoverflow.com/a/65140399[here]
