@@ -1,0 +1,22 @@
+= Typescript Project Starter
+Favourite setup for any typescript project.
+
+== Base
+```bash
+npm init -y
+
+# Eslint and Prettier
+npm i --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
+npm i --save-dev prettier
+wget https://raw.githubusercontent.com/nickscript0/dev-workflows/master/dot_rc_files/.eslintrc.json
+wget https://raw.githubusercontent.com/nickscript0/dev-workflows/master/dot_rc_files/.eslintignore
+wget https://raw.githubusercontent.com/nickscript0/dev-workflows/master/dot_rc_files/.prettierrc.json
+
+npm i --save typescript
+```
+
+== NodeJS Project
+```bash
+npm i --save ts-node
+npm i --save-dev @types/node
+```
