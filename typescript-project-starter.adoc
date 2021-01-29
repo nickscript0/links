@@ -22,3 +22,13 @@ npm i --save typescript
 npm i --save ts-node
 npm i --save-dev @types/node
 ```
+
+== NextJS App
+. Run `npx create-next-app`
+. Then https://nextjs.org/docs/basic-features/typescript[convert it to Typescript]
++
+____
+To get started, create an empty tsconfig.json file in the root of your project
+
+Then, run next (normally npm run dev or yarn dev) and Next.js will guide you through the installation of the required packages to finish the setup
+____
