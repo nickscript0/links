@@ -1,13 +1,13 @@
 # COVID-19 Links
 
 ## Top
+- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [Canada Per province charts CBC](https://newsinteractives.cbc.ca/coronavirustracker/)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
 ---
 - [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 - [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
-- [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
 - [www.worldometers.info/coronavirus](https://www.worldometers.info/coronavirus)
 - :star: [COVID-19 Growth by Country](https://observablehq.com/@nickscript0/covid-19-growth-by-country-2-charts)
 - [Axios - Coronavirus dashboard](https://www.axios.com/coronavirus-latest-news-quick-highlights-57a186a3-7547-45bf-852a-83019849d8d5.html)
