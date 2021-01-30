@@ -1,5 +1,5 @@
-= Typescript Project Starter
-Favourite setup for any typescript project.
+= Typescript Project Starters
+:toc:
 
 == Base
 ```bash
