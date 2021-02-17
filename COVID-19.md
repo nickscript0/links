@@ -5,6 +5,7 @@
 - [Canada Per province charts CBC](https://newsinteractives.cbc.ca/coronavirustracker/)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
+- [NYTimes - Coronavirus Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
 ---
 - [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 - [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
