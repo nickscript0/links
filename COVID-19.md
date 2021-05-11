@@ -6,6 +6,7 @@
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
 - [NYTimes - Coronavirus Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
+- [Nova Scotia Covid Dashboard](https://experience.arcgis.com/experience/204d6ed723244dfbb763ca3f913c5cad)
 ---
 - [Covid Variants by Province - ctvnews](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141)
 - [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
