@@ -8,7 +8,9 @@
 - [NYTimes - Coronavirus Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
 - [Nova Scotia Covid Dashboard](https://experience.arcgis.com/experience/204d6ed723244dfbb763ca3f913c5cad)
 ---
-- [Ongoing Principle Trial by Univeristy of Oxford on Ivermectin](https://www.principletrial.org/)
+- Ivermectin
+   - [Ongoing Principle Trial by Univeristy of Oxford on Ivermectin](https://www.principletrial.org/)
+   - https://healthfeedback.org/authors/tess-lawrie/ - Independent review on study and videos by Tess Lawrie an Invermectin supporter PHD.
 - [Covid Variants by Province - ctvnews](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141)
 - [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 - [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
