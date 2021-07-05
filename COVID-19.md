@@ -11,6 +11,7 @@
 - Ivermectin
    - [Ongoing Principle Trial by Univeristy of Oxford on Ivermectin](https://www.principletrial.org/)
    - https://healthfeedback.org/authors/tess-lawrie/ - Independent review on study and videos by Tess Lawrie an Invermectin supporter PHD.
+   - [Reddit thread on Bret Weinstein FLCCC studies with good links debunking Ivermectin praise](https://www.reddit.com/r/JoeRogan/comments/oa80vp/bret_weinsteins_youtube_channels_have_been/)
 - [Covid Variants by Province - ctvnews](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141)
 - [NY Times - Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 - [NY Times - Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
