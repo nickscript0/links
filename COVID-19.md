@@ -11,10 +11,10 @@
    - https://byrambridle.com/ - Good site refuting Byram Bridle's claims on Spike Protein dangers
    - [Reuters - Fact Check-No evidence spike proteins from COVID-19 vaccines are toxic](https://www.reuters.com/article/factcheck-vaccine-safe-idUSL2N2NX1J6)
    - [Reuters - Fact Check-COVID-19 vaccines are not ‘cytotoxic’](https://www.reuters.com/article/factcheck-vaccine-cytotoxic-idUSL2N2O01XP)
+   - https://healthfeedback.org/authors/tess-lawrie/ - Independent review on study and videos by Tess Lawrie an Invermectin supporter PHD.
 ---
 - Ivermectin
    - [Ongoing Principle Trial by Univeristy of Oxford on Ivermectin](https://www.principletrial.org/)
-   - https://healthfeedback.org/authors/tess-lawrie/ - Independent review on study and videos by Tess Lawrie an Invermectin supporter PHD.
    - [Reddit thread on Bret Weinstein FLCCC studies with good links debunking Ivermectin praise](https://www.reddit.com/r/JoeRogan/comments/oa80vp/bret_weinsteins_youtube_channels_have_been/)
 - [CDC Report on Breakthrough Infections - Jan to Apr 2021](https://www.cdc.gov/mmwr/volumes/70/wr/mm7021e3.htm)
 - [Covid Variants by Province - ctvnews](https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141)
