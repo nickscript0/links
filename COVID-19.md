@@ -12,7 +12,7 @@
    - [Reuters - Fact Check-No evidence spike proteins from COVID-19 vaccines are toxic](https://www.reuters.com/article/factcheck-vaccine-safe-idUSL2N2NX1J6)
    - [Reuters - Fact Check-COVID-19 vaccines are not ‘cytotoxic’](https://www.reuters.com/article/factcheck-vaccine-cytotoxic-idUSL2N2O01XP)
    - https://healthfeedback.org/authors/tess-lawrie/ - Independent review on study and videos by Tess Lawrie an Invermectin supporter PHD, **concluding Misleading and Unsupported**
-- ["Both the authorized mRNA vaccines provided protective immunity to over 90% of recipients, but fewer than 50% reported any reaction to the vaccine and far fewer had severe reactions."](https://www.pbs.org/newshour/health/what-covid-vaccine-side-effects-can-and-cant-tell-you-about-your-bodys-immune-response)
+- **mRNA Vaccines are still effective even if no reaction** - ["Both the authorized mRNA vaccines provided protective immunity to over 90% of recipients, but fewer than 50% reported any reaction to the vaccine and far fewer had severe reactions."](https://www.pbs.org/newshour/health/what-covid-vaccine-side-effects-can-and-cant-tell-you-about-your-bodys-immune-response)
 ---
 - Ivermectin
    - [Ongoing Principle Trial by Univeristy of Oxford on Ivermectin](https://www.principletrial.org/)
