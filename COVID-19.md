@@ -8,6 +8,7 @@
 - [NYTimes - Coronavirus Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
 - [Nova Scotia Covid Dashboard](https://experience.arcgis.com/experience/204d6ed723244dfbb763ca3f913c5cad)
 - Misinformation Rebuttals
+   - [Spike Protein Behavior](https://blogs.sciencemag.org/pipeline/archives/2021/05/04/spike-protein-behavior) - probably the best concise write-up on why mRNA vaccines use of Spike Protein is safe
    - https://byrambridle.com/ - Good site refuting Byram Bridle's claims on Spike Protein dangers
    - [Reuters - Fact Check-No evidence spike proteins from COVID-19 vaccines are toxic](https://www.reuters.com/article/factcheck-vaccine-safe-idUSL2N2NX1J6)
    - [Reuters - Fact Check-COVID-19 vaccines are not ‘cytotoxic’](https://www.reuters.com/article/factcheck-vaccine-cytotoxic-idUSL2N2O01XP)
