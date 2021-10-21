@@ -206,3 +206,13 @@ type UnionToTuple<T> = (
     ? [...UnionToTuple<Exclude<T, W>>, W]
     : [];
 ```
+
+=== I wanted to filter undefined elements from an array, and the resulting array typed with only the remaining type
+
+Filtering out undefined elements from an array of type `(T | undefined)[]` the returned array remains the original type due to Typescript limitations.
+Use a https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates[Type Predicate] to resolve this:
+
+```typescript
+const arr1: (number | undefined)[] = []
+const arr2 = arr1.filter((item): item is number => item !== undefined) // arr2 is type string[]
+```
