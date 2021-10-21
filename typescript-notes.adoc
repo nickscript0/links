@@ -209,7 +209,7 @@ type UnionToTuple<T> = (
 
 === I wanted to filter undefined elements from an array, and the resulting array typed with only the remaining type
 
-Filtering out undefined elements from an array of type `(T | undefined)[]` the returned array remains the original type due to Typescript limitations.
+Filtering out undefined elements from an array of type `(T | undefined)[]` the returned array remains the original type (even though no undefined elements remain) due to Typescript limitations.
 Use a https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates[Type Predicate] to resolve this:
 
 ```typescript
