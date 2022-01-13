@@ -8,6 +8,8 @@
 - [NYTimes - Coronavirus Variant Tracker](https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html)
 - [Nova Scotia Covid Dashboard](https://experience.arcgis.com/experience/204d6ed723244dfbb763ca3f913c5cad)
 - [Lancet study showing the vaccinated are less likely to transmit - Oct 29, 2021](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext)
+- [Genetics could explain why some people get severe COVID-19 - Stanford Medicine July 2021](https://scopeblog.stanford.edu/2021/07/21/genetics-could-explain-why-some-people-get-severe-covid-19/)
+---
 - Misinformation Rebuttals
    - [Ivermectin: How false science created a Covid 'miracle' drug - bbc.com - Oct 8, 2021](https://www.bbc.com/news/health-58170809)
    - [Spike Protein Behavior](https://blogs.sciencemag.org/pipeline/archives/2021/05/04/spike-protein-behavior) - probably the best concise write-up on why mRNA vaccines use of Spike Protein is safe
