@@ -2,6 +2,7 @@
 
 ## Top
 - [ourworldindata.org's huge page on COVID-19 with updated charts of WHO data](https://ourworldindata.org/coronavirus)
+- [Covid Death's by Vaccination - ourworldindata.org (Added Jan 24, 2022)](https://ourworldindata.org/covid-deaths-by-vaccination)
 - [Canada Per province charts CBC](https://newsinteractives.cbc.ca/coronavirustracker/)
 - [NY Times - US Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - [Canada Active cases by province](https://www.covid-19canada.com/)
