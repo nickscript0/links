@@ -121,6 +121,7 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
 
 ## Studies
+- [Added Jan 25, 2022] [Assessing the effect of beard hair lengths on face masks used as personal protective equipment during the COVID-19 pandemic - May 2021](https://www.nature.com/articles/s41370-021-00337-1)
 - [Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China](https://project-evidence.github.io/)
 - [Apr 20 - Study on real analysis of restaurant transmission](https://twitter.com/zeynep/status/1251556084424347649?s=21) https://t.co/j8VXjnWtlN?amp=1
 - [\[Mar 17, 2020\] Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
