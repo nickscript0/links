@@ -11,6 +11,7 @@
 - [Lancet study showing the vaccinated are less likely to transmit - Oct 29, 2021](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext)
 - [Genetics could explain why some people get severe COVID-19 - Stanford Medicine July 2021](https://scopeblog.stanford.edu/2021/07/21/genetics-could-explain-why-some-people-get-severe-covid-19/)
 - **N95 Masks**
+   - Good summary piece by USA Today on N95 mask use and cleaning [COVID mask guide for omicron surge: Why N95, KN95 masks are so much more effective than cloth](https://www.usatoday.com/in-depth/graphics/2022/01/07/omicron-mask-upgrade-guide-how-n-95-and-kn-95-protect-you-better-than-cloth/9129901002/)
    - [Assessing the effect of beard hair lengths on face masks used as personal protective equipment during the COVID-19 pandemic - May 2021](https://www.nature.com/articles/s41370-021-00337-1)
    - [N95 Respirator Cleaning and Reuse Methods Proposed by the Inventor of the N95 Mask Material - Apr 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161499/)
 ---
