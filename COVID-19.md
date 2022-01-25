@@ -10,6 +10,9 @@
 - [Nova Scotia Covid Dashboard](https://experience.arcgis.com/experience/204d6ed723244dfbb763ca3f913c5cad)
 - [Lancet study showing the vaccinated are less likely to transmit - Oct 29, 2021](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00648-4/fulltext)
 - [Genetics could explain why some people get severe COVID-19 - Stanford Medicine July 2021](https://scopeblog.stanford.edu/2021/07/21/genetics-could-explain-why-some-people-get-severe-covid-19/)
+- **N95 Masks**
+   - [Assessing the effect of beard hair lengths on face masks used as personal protective equipment during the COVID-19 pandemic - May 2021](https://www.nature.com/articles/s41370-021-00337-1)
+   - [N95 Respirator Cleaning and Reuse Methods Proposed by the Inventor of the N95 Mask Material - Apr 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7161499/)
 ---
 - Misinformation Rebuttals
    - [Ivermectin: How false science created a Covid 'miracle' drug - bbc.com - Oct 8, 2021](https://www.bbc.com/news/health-58170809)
@@ -121,7 +124,6 @@ Here Are 6 Key Factors](https://www.nytimes.com/interactive/2020/world/asia/chin
 - [Mar 20 - Youtube video: A Pulmonary Pathologist's Perspective on COVID-19](https://youtu.be/v2EHsG-C_Rg)
 
 ## Studies
-- [Added Jan 25, 2022] [Assessing the effect of beard hair lengths on face masks used as personal protective equipment during the COVID-19 pandemic - May 2021](https://www.nature.com/articles/s41370-021-00337-1)
 - [Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China](https://project-evidence.github.io/)
 - [Apr 20 - Study on real analysis of restaurant transmission](https://twitter.com/zeynep/status/1251556084424347649?s=21) https://t.co/j8VXjnWtlN?amp=1
 - [\[Mar 17, 2020\] Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
