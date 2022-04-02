@@ -97,7 +97,7 @@ Sample Manifest V3 with a content_script
 === Vite.js
 *I expermiented with Vite 2.9.1 on Apr 2, 2022, it works but requires independently configuring tsc to watch so no thanks.*
 
-* It seems to work fine using the dist/main.es.js output of https://vitejs.dev/guide/build.html#library-mode[Library-mode] using the following vite.config.js
+* It seems to work fine using the dist/main.es.js output of https://vitejs.dev/guide/build.html#library-mode[Library-mode] using the following vite.config.js and build command `tsc && vite build`
 +
 ```javascript
 // vite.config.js
