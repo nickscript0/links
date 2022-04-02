@@ -93,3 +93,25 @@ Sample Manifest V3 with a content_script
 * But currently waiting on a maintainer to merge this PR for Manifest v3 support (last checked Apr2, 2022)
 ** https://github.com/parcel-bundler/parcel/issues/6079
 ** https://github.com/parcel-bundler/parcel/pull/7050
+
+=== Vite.js
+*I expermiented with Vite 2.9.1 on Apr 2, 2022:*
+
+* It seems to work fine using the dist/main.es.js output in https://vitejs.dev/guide/build.html#library-mode[Library-mode], but the con being Vite does not run tsc compilation itself meaning watch mode requires independently configuring tsc to watch `"tsc && vite build"`
+* Here is the vite.config.js I used
++
+```javascript
+// vite.config.js
+const path = require('path');
+const { defineConfig } = require('vite');
+
+module.exports = defineConfig({
+    build: {
+        lib: {
+            entry: path.resolve(__dirname, 'src/main.ts'),
+            name: 'Extension',
+            fileName: format => `extension.${format}.js`,
+        },
+    },
+});
+
