@@ -32,3 +32,64 @@ To get started, create an empty tsconfig.json file in the root of your project
 
 Then, run next (normally npm run dev or yarn dev) and Next.js will guide you through the installation of the required packages to finish the setup
 ____
+
+== Chrome/Firefox Extension
+=== Webpack5
+*This is the current best way until the Parcel.js manifest v3 support PR is merged (see Parcel.js section below)*.
+
+Install deps
+```bash
+npm install save-dev webpack webpack-cli ts-loader typescript
+```
+
+A sample webpack.config.js that assumes your entrypoint is src/main.ts and bundles everything to build/main.bundle.js
+```javascript
+const path = require('path');
+
+module.exports = {
+    entry: {
+        main: './src/main.ts',
+    },
+    output: {
+        path: path.resolve(__dirname, 'build'),
+        filename: '[name].bundle.js',
+        publicPath: '/build/',
+    },
+    resolve: {
+        // Add `.ts` and `.tsx` as a resolvable extension.
+        extensions: ['.webpack.js', '.web.js', '.ts', '.tsx', '.js'],
+    },
+    module: {
+        rules: [
+            // all files with a `.ts` or `.tsx` extension will be handled by `ts-loader`
+            { test: /\.tsx?$/, loader: 'ts-loader' },
+        ],
+    },
+    mode: 'production',
+    // Comment in for source maps
+    // mode: 'development',
+    // devtool: 'source-map'
+};
+```
+
+Sample Manifest V3 with a content_script
+```json
+{
+    "name": "Name",
+    "version": "0.3",
+    "description": "Description",
+    "content_scripts": [
+        {
+            "matches": ["https://example.com/*"],
+            "js": ["build/main.bundle.js"]
+        }
+    ],
+    "manifest_version": 3
+}
+```
+
+=== Parcel.js
+* Has support for Manifest v2 built-in https://parceljs.org/recipes/web-extension/
+* But currently waiting on a maintainer to merge this PR for Manifest v3 support (last checked Apr2, 2022)
+** https://github.com/parcel-bundler/parcel/issues/6079
+** https://github.com/parcel-bundler/parcel/pull/7050
