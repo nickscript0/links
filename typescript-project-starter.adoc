@@ -95,15 +95,15 @@ Sample Manifest V3 with a content_script
 ==== tsconfig.json
 module must be CommonJS
 
-```json
+```jsonc
 {
     "compilerOptions": {
-        "target": "ESNext" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */,
-        "module": "CommonJS" /* This can be 'ESNext' for extensions, but not for nodejs scripts */,
-        "strict": true /* Enable all strict type-checking options. */,
-        "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
-        "skipLibCheck": true /* Skip type checking of declaration files. */,
-        "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
+        "target": "ESNext",
+        "module": "CommonJS", // Likely can be "ESNext" for extensions as Chrome supports this but still must be CommonJS for ts-node CLI scripts
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
         "lib": ["ESNext", "DOM"]
     }
 }
