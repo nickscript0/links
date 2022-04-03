@@ -23,6 +23,8 @@ npm i --save ts-node
 npm i --save-dev @types/node
 ```
 
+* Ensure your tsconfig.json has `module: "CommonJS"`
+
 == NextJS App
 . Run `npx create-next-app`
 . Then https://nextjs.org/docs/basic-features/typescript[convert it to Typescript]
@@ -42,6 +44,7 @@ Install deps
 npm install save-dev webpack webpack-cli ts-loader typescript
 ```
 
+==== webpack.config.js
 A sample webpack.config.js that assumes your entrypoint is src/main.ts and bundles everything to build/main.bundle.js
 ```javascript
 const path = require('path');
@@ -72,6 +75,7 @@ module.exports = {
 };
 ```
 
+==== manifest.json
 Sample Manifest V3 with a content_script
 ```json
 {
@@ -85,6 +89,23 @@ Sample Manifest V3 with a content_script
         }
     ],
     "manifest_version": 3
+}
+```
+
+==== tsconfig.json
+module must be CommonJS
+
+```json
+{
+    "compilerOptions": {
+        "target": "ESNext" /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */,
+        "module": "CommonJS" /* This can be 'ESNext' for extensions, but not for nodejs scripts */,
+        "strict": true /* Enable all strict type-checking options. */,
+        "esModuleInterop": true /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */,
+        "skipLibCheck": true /* Skip type checking of declaration files. */,
+        "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */,
+        "lib": ["ESNext", "DOM"]
+    }
 }
 ```
 
