@@ -179,8 +179,9 @@ const arrayOfAll = <T>() => <U extends T[]>(
   ...array: U & ([T] extends [U[number]] ? unknown : Invalid<T>[])
 ) => array;
 const arrayOfAllKeys = arrayOfAll<keyof MyInterface>();
+const keys = arrayOfAllKeys('key1', 'key2');
 
-console.log(arrayOfAllKeys); // ['key1', 'key2']
+console.log(keys); // ['key1', 'key2']
 ```
 
 === Typed nested property path strings like `lodash.get` (Template Literal Types and Recursive Conditional Types)
