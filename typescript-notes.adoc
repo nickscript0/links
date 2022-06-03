@@ -165,6 +165,24 @@ const ids = ['hello', 'world'] as const;
 type RecordWithArrayKeys = Record<typeof ids[number], string>;
 ```
 
+=== I want an Interface (with differing value types), where the keys are type checked with the strings in an array
+The best I could find as of Jun 3, 2022 is https://stackoverflow.com/a/53395649[enforce an array of strings matches an Interface's keys with type errors on missing keys or extra keys], using conditional types:
+
+```typescript
+interface MyInterface {
+   key1: type1;
+   key2: type2;
+}
+
+type Invalid<T> = ["Needs to be all of", T]
+const arrayOfAll = <T>() => <U extends T[]>(
+  ...array: U & ([T] extends [U[number]] ? unknown : Invalid<T>[])
+) => array;
+const arrayOfAllKeys = arrayOfAll<keyof MyInterface>();
+
+console.log(arrayOfAllKeys); // ['key1', 'key2']
+```
+
 === Typed nested property path strings like `lodash.get` (Template Literal Types and Recursive Conditional Types)
 
 From https://stackoverflow.com/a/65140399[here]
