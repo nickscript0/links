@@ -13,6 +13,7 @@ wget https://raw.githubusercontent.com/nickscript0/dev-workflows/master/dot_rc_f
 wget https://raw.githubusercontent.com/nickscript0/dev-workflows/master/dot_rc_files/.prettierrc.json
 
 npm i --save typescript
+node_modules/.bin/tsc --init
 
 # Add a .gitignore with at least "node_modules/"
 ```
